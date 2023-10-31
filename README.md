@@ -3,6 +3,7 @@
 
 ## Lưu ý
 -Đặt IP tĩnh trước khi cài đặt
+
 -Cài đặt ở quyền root (sudo). Nếu không ở quyền root thì thêm sudo trước mỗi câu lệnh
 
 ## Bắt đầu cài đặt
