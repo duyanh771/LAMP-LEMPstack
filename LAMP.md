@@ -145,13 +145,13 @@ Kiểm tra phiên bản PHP
 php -v
 ```
 
-Ví dụ như phiên bản 7.4 sẽ xuất ra màn hình như dưới
+Màn hình sẽ xuất ra kết quả như dưới
 
 ```
-PHP 7.4.0beta4 (cli) (built: Aug 28 2019 11:41:49) ( NTS )
+PHP 8.1.14 (cli) (built: Jan  4 2023 17:23:14) (NTS gcc x86_64)
 Copyright (c) The PHP Group
-Zend Engine v3.4.0-dev, Copyright (c) Zend Technologies
-    with Zend OPcache v7.4.0beta4, Copyright (c), by Zend Technologies
+Zend Engine v4.1.14, Copyright (c) Zend Technologies
+    with Zend OPcache v8.1.14, Copyright (c), by Zend Technologies
 ```
 
 **3.Kiểm tra PHP hoạt động trên Apache**
