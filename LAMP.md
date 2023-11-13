@@ -145,7 +145,7 @@ Kiểm tra phiên bản PHP
 php -v
 ```
 
-Màn hình sẽ xuất ra kết quả như dưới
+Màn hình sẽ xuất ra kết quả như dưới (ví dụ như phiên bản của mình là 8.1)
 
 ```
 PHP 8.1.14 (cli) (built: Jan  4 2023 17:23:14) (NTS gcc x86_64)
