@@ -64,7 +64,7 @@ firewall-cmd –reload
 ```
 http://IP_ADDR
 ```
-![Alt](https://img001.prntscr.com/file/img001/hS7KgQmpRYuC8-ynAyzf-Q.png)
+![Alt](https://img001.prntscr.com/file/img001/slskComuRhm4kYmHONN53A.png)
 
 ### B3: Cài đặt Mariadb hoặc Mysql (tùy lựa chọn)
 **1. Cài đặt, khởi động và kiểm tra trạng thái**
