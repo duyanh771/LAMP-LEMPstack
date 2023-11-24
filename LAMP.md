@@ -92,7 +92,7 @@ systemctl status mariadb     (Xem trạng thái dịch vụ mariadb)
 mysql_secure_installation
 ```
 
-Sau khi chạy câu lệnh, nó sẽ hỏi bạn các câu hỏi mà bạn chỉ trả lời `yes(y)` hoặc `no(no)` để mở vài tính năng bảo mật. Vì ta vừa cài đặt database nên sẽ không có mật khẩu root (hoặc admin)
+Sau khi chạy câu lệnh, nó sẽ hỏi bạn các câu hỏi mà bạn chỉ trả lời `yes(y)` hoặc `no(n)` để mở vài tính năng bảo mật. Vì ta vừa cài đặt database nên sẽ không có mật khẩu root
 
 ![Alt](https://www.tecmint.com/wp-content/uploads/2015/10/secure-mariadb-deployment.png)
 
