@@ -194,4 +194,4 @@ http://YOUR_SERVER_IP/info.php
 
 Kết quả
 
-![Alt](https://img001.prntscr.com/file/img001/0IZn0X0bQYCR0uTdH8Gn8Q.png)
+![Alt](https://img001.prntscr.com/file/img001/7k8jKMwJQDqCKf90BDBJ-w.png)
