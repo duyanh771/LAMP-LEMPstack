@@ -8,12 +8,23 @@
 
 ## Bắt đầu cài đặt
 
-### B1: Cập nhật hệ thống
+### B1: Cập nhật, cài đặt các repo cần thiết cho hệ thống
 
 **CentOS/RHEL**
 
 ```
 yum -y update
+```
+
+```
+yum -y install epel-release
+yum install yum-utils
+```
+
+hoặc
+
+```
+dnf install dnf-utils http://rpms.remirepo.net/enterprise/remi-release-8.rpm
 ```
 
 **Debian/Ubuntu**
@@ -108,7 +119,7 @@ yum install -y https://rpms.remirepo.net/enterprise/remi-release-8.rpm  [On Cent
 yum install -y https://rpms.remirepo.net/enterprise/remi-release-7.rpm  [On CentOS/RHEL 7]
 ```
 
-Sau khi cài đặt gói Remi xong, các bạn cần chọn phiên bản PHP mà mình cần cài đặt và kích hoạt gói chứa phiên bản PHP đó.
+Sau khi cài đặt gói Remi xong, các bạn cần chọn phiên bản PHP mà mình cần cài đặt và kích hoạt gói chứa phiên bản PHP đó.(Ví dụ ở dưới là php 8.0)
 
 ```
 yum-config-manager --enable remi-php80
