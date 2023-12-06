@@ -1,2 +1,2 @@
 
-# Hướng dẫn cài đặt LAMP - LEMP cho RHEL, CentOS - Ubuntu
+# LAMP - LEMP for RHEL, CentOS - Ubuntu
